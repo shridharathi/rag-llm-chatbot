@@ -3,7 +3,7 @@
 # Setup
 
 # Create .env file in root directory
-OPENAI_API_KEY=<YOUR_API_KEY>
+OPENAI_API_KEY=<YOUR_API_KEY> \\
 PINECONE_API_KEY=<YOUR_API_KEY>
 
 # Create Virtual Environment
