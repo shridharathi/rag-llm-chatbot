@@ -7,7 +7,7 @@ This webapp was an exploration in self-implementing Retrival Augmented Generatio
 
 
 
-Setup
+Setup:
 
 Create .env file in root directory
 
